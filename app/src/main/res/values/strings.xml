@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mahalaxmi</string>
+    <string name="company_name">Mahalaxmi Enterprise</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your business management portal</string>
+    <string name="tab_outstanding">Outstanding</string>
+    <string name="tab_payments">Payments</string>
+    <string name="tab_orders">Orders</string>
+    <string name="tab_price_list">Price List</string>
+    <string name="tab_special_price_deals">Special Price Deals</string>
+    <string name="tab_task_tracker">Task Tracker</string>
+</resources>

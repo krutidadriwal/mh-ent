@@ -1,0 +1,6 @@
+{
+  "name": "Mahalaxmi Enterprise",
+  "description": "Enterprise management portal for Mahalaxmi Enterprise with Outstanding dues, Payments, Orders, Price List, Special Deals, and Task Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

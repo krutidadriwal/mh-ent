@@ -1,0 +1,16 @@
+{
+  "name": "mh-ent-server",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "dev": "node --env-file=.env scripts/dev-server.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "jose": "^6.2.12"
+  }
+}
